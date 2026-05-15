@@ -1,104 +1,104 @@
-# House Price Prediction using Machine Learning
+# 🏠 House Price Prediction using Machine Learning
 
-## Project Overview
+## 📌 Project Overview
 
 This project predicts house prices based on various housing features such as:
 
-- Longitude
-- Latitude
-- Housing Median Age
-- Total Rooms
-- Total Bedrooms
-- Ocean Proximity
-- Population
-- House holds
-- Median Income
+- 🌍 Longitude
+- 🌍 Latitude
+- 🏡 Housing Median Age
+- 🛏 Total Rooms
+- 🛌 Total Bedrooms
+- 🌊 Ocean Proximity
+- 👥 Population
+- 🏠 Households
+- 💰 Median Income
 
 The project demonstrates a complete end-to-end Machine Learning workflow including:
-- Data preprocessing
-- Pipeline creation
-- Model training
-- Cross validation
-- Performance evaluation
+- 🧹 Data preprocessing
+- ⚙️ Pipeline creation
+- 🤖 Model training
+- 🔄 Cross validation
+- 📊 Performance evaluation
 
 ---
 
-##  Technologies Used
+## 🛠 Technologies Used
 
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
+- 🐍 Python
+- 🔢 NumPy
+- 🐼 Pandas
+- 🤖 Scikit-learn
 
 ---
 
-##  ML Workflow
+## 🚀 ML Workflow
 
-###  Data Splitting
+### 📂 Data Splitting
 Used **Stratified Shuffle Split** for splitting:
-- Training data
-- Testing data
+- 📘 Training data
+- 📕 Testing data
 
 ---
 
-###  Data Preparation
+### 🧹 Data Preparation
 - Worked on a copy of training data
 - Separated:
-  - Features
-  - Labels
+  - 🎯 Features
+  - 🏷 Labels
 
 ---
 
-###  Pipelines Created
+## ⚙️ Pipelines Created
 
-#### Numerical Pipeline
+### 🔢 Numerical Pipeline
 - SimpleImputer
 - StandardScaler
 
-#### Categorical Pipeline
+### 🏷 Categorical Pipeline
 - OneHotEncoder
 
-#### Full Pipeline
+### 🔗 Full Pipeline
 Combination of:
 - Numerical pipeline
 - Categorical pipeline
 
 ---
 
-##  Algorithms Used
+## 🤖 Algorithms Used
 
-- Linear Regression
-- Decision Tree Regressor
-- Random Forest Regressor
+- 📈 Linear Regression
+- 🌳 Decision Tree Regressor
+- 🌲 Random Forest Regressor
 
 ---
 
-##  Model Evaluation
+## 📊 Model Evaluation
 
 Used:
-- RMSE
-- Cross Validation
+- 📉 RMSE
+- 🔄 Cross Validation
 
 ---
 
-##  Best Model
+## 🏆 Best Model
 
-### Random Forest Regressor
+### 🌲 Random Forest Regressor
 
-Reason:
+### ✅ Reason:
 - Lowest RMSE value
 - Better performance compared to other models
 
 ---
 
-##  Future Improvements
+## 🔮 Future Improvements
 
-- Hyperparameter tuning
-- Deployment using Flask/Streamlit
-- Cloud deployment
+- ⚡ Hyperparameter tuning
+- 🌐 Deployment using Flask/Streamlit
+- ☁️ Cloud deployment
 
 ---
 
-##  Author
+## 👨‍💻 Author
 
-Ayyub
+**Ayub**

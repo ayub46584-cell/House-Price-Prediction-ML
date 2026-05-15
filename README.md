@@ -99,6 +99,6 @@ Reason:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-Mr Ayyub
+Ayyub

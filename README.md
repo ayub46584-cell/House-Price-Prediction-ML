@@ -101,4 +101,4 @@ Used:
 
 ## 👨‍💻 Author
 
-**Ayub**
+**Ayyub**
